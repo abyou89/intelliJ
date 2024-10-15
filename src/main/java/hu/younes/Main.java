@@ -2,11 +2,11 @@ package hu.younes;
 
 public class Main {
     public static void main(String[] args) {
-
-        int i = Main.fv();
+        Main m = new Main();
+        int i = m.fv();
     }
 
-    private static int fv() {
-        return 0;
+    private int fv() {
+        return 1;
     }
 }
