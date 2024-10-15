@@ -7,6 +7,6 @@ public class Main {
     }
 
     private static int fv() {
-        return -1;
+        return 0;
     }
 }
