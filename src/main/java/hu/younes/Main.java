@@ -3,6 +3,10 @@ package hu.younes;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
+        int i = fv();
+    }
+
+    private static int fv() {
+        return -1;
     }
 }
